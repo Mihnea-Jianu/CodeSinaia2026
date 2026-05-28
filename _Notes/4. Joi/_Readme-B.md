@@ -3,10 +3,10 @@ Dependențe:  [[0. Vineri - Setup/_Readme|0. Friday - Setup]], [[_Notes/_Readme|
 
 ==// TODO: add summary of the day==
 
-- [ ] 9:00 - 10:00: Lecție - ML Start (ref: [TBD]())
-- [ ] 10:00 - 12:30: Lecție - ML: Linear classifiers, algoritmi (KNN), data sets  (ref: [TBD]())
+- [ ] 9:00 - 10:00: Lecție - ML Start (ref: [[2a. ML Start]])
+- [ ] 10:00 - 12:30: Lecție - ML: Linear classifiers, algoritmi (KNN), data sets  (ref: [[3a. Linear Classifiers, KNN, data sets]])
 
 - [ ] 12:30 -14:00 --------**Lunch break** --------
 
-- [ ] 14:00 - 16:30:  Lecție - ML next level: Tensori, Classifiers... (ref: [TBD]())
-- [ ] 16:30 - 18:00: Workshop - Cum ne prezentăm la un interviu, revizuire CV  (ref: [TBD]())
+- [ ] 14:00 - 16:30:  Lecție - ML next level: Tensori, Classifiers... (ref: [[4a. ML next level]])
+- [ ] 16:30 - 18:00: Workshop - Cum ne prezentăm la un interviu, revizuire CV  (ref: [[Interviewing in Tech]])
