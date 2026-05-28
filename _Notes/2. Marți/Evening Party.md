@@ -1,0 +1,1 @@
+Marți: 18:00 - 19:30 @ Vila Luminița
