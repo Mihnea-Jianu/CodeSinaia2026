@@ -1,5 +1,5 @@
 Luni 20 iulie
-Dependențe: [[0. Vineri - Setup/_Readme|0. Friday - Setup]], [[_Notes/_Readme|_Readme]]
+Dependențe: [[_Notes/0. Vineri - Setup/_Readme|0. Friday - Setup]], [[_Notes/_Readme|_Readme]]
 
 Anunțuri organizatorice, introduceri, împărțire clase.
 ==// TODO: Add summary of the day for both A & B==
