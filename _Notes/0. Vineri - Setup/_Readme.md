@@ -4,10 +4,8 @@ Online workshop for installing and validating the software setup needed for *Cod
 
 | Name                    | Details                   |
 | ----------------------- | ------------------------- |
-| Notepad++               | [[1. Notepad++]]          |
-| GitHub & Git            | [[2. GitHub & Git]]       |
-| CodeSinaia2026 Data     | [[3. Data]]               |
-| Obsidian MD             | [[4. Obsidian]]           |
-| Python                  | [[5. Python]]             |
-| VSCode with  extensions | [[6. Visual Studio Code]] |
+| GitHub & Git            | [[1. GitHub & Git]]       |
+| Python                  | [[2. Python]]             |
+| VSCode with  extensions | [[3. Visual Studio Code]] |
+| CodeSinaia2026 Data     | [[4. Data]]               |
 

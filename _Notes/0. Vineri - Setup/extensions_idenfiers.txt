@@ -1,0 +1,57 @@
+{
+  "name": "codesinaia2025-extension-pack",
+  "displayName": "CodeSinaia 2025 Extension Pack",
+  "description": "Extensions used in the CodeSinaia 2025 summer school",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "publisher": "INPROTED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RaresAnghel08/codesinaia-2025-extension-pack.git"
+  },
+  "readme": "README.md",
+  "icon": "logo.png",
+  "extensionPack": [ 
+    "ms-toolsai.jupyter",
+    "wolfieshorizon.python-auto-venv",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "usernamehw.errorlens",
+    "github.copilot",
+    "github.copilot-chat",
+    "github.vscode-pull-request-github",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "visualstudioexptteam.vscodeintellicode",
+    "ms-toolsai.vscode-jupyter-powertoys",
+    "ms-vsliveshare.vsliveshare",
+    "mechatroner.rainbow-csv"
+  ]
+}
+
+
+
+#identifiers: 
+"extensionPack": [ 
+    "ms-toolsai.jupyter",
+    "wolfieshorizon.python-auto-venv",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "usernamehw.errorlens",
+    "github.copilot",
+    "github.copilot-chat",
+    "github.vscode-pull-request-github",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "visualstudioexptteam.vscodeintellicode",
+    "ms-toolsai.vscode-jupyter-powertoys",
+    "ms-vsliveshare.vsliveshare",
+    "mechatroner.rainbow-csv"
+  ]
