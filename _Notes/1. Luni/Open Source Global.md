@@ -1,4 +1,4 @@
-Luni: 16:30 - 18:00 @ Vila Luminița
+Luni: 16:30 - 18:00 @ Vila Luminița  
 Prezentator: Monica
 
 <u>Abstract</u>: 
