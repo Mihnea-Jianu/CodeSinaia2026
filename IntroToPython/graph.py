@@ -61,4 +61,4 @@ def plot_points(points):
 if __name__ == "__main__":
     points = load_points()
     plot_points(points)
-    write_points(points, "points.dat")
+    write_points(points, "points.txt")
